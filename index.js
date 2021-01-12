@@ -1,6 +1,6 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoicmVkaWV0MSIsImEiOiJja2ppd2tzdW02eWI5MnlxamRra3N5NHFsIn0.0yrFCxq-75dR7SBo5sZgIA';
 document.getElementById("instructions").style.display = "none";
-document.getElementById("addbtn").style.display = "none";
+// document.getElementById("addbtn").style.display = "none";
 var zo = 18;
 var pi = 55;
 var be = -20;
